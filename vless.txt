@@ -1,6 +1,0 @@
-vless://6f361c37-bc54-43dd-8c8b-0f59354745a5@220.130.75.248:10000/?type=tcp&encryption=none&flow=&packetEncoding=xudp#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%BC%20TW-726
-vless://6f361c37-bc54-43dd-8c8b-0f59354745a5@220.130.75.250:10000/?type=tcp&encryption=none&flow=&packetEncoding=xudp#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%BC%20TW-718
-vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@207.174.133.163:10000?&type=tcp&headerType=none&path=%2F#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2861
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.132.102.151:22222?encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3223
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.132.102.151:22223?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3225
-vless://f84579d4-3031-47ac-9536-c67d196fb0a3@80.90.188.160:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35024

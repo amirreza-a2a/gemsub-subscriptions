@@ -1,1 +1,0 @@
-trojan://MiTiVPN@199.232.78.160:443?security=tls&type=ws&sni=ssl.fastly.com&path=/---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI&host=mitivpn-mitivpn-mitivpn---mitivpn--mitivpn.global.ssl.fastly.net#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-26232

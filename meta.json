@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-03T20:18:32Z",
-  "cycle_number": 15,
-  "total_servable": 16,
-  "vless_count": 6,
-  "vmess_count": 2,
-  "trojan_count": 1
+  "generated_at": "2026-09-03T20:38:44Z",
+  "cycle_number": 16,
+  "total_servable": 0,
+  "vless_count": 0,
+  "vmess_count": 0,
+  "trojan_count": 0
 }
