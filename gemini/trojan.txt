@@ -1,2 +1,2 @@
-trojan://1710442808@104.18.12.149:443?security=tls&sni=subb.nrshop198.workers.dev&allowInsecure=1&type=ws&host=subb.nrshop198.workers.dev&path=%2F#@DeltaKroneckerGithub
+trojan://Trojan@82164024@ie.tronsg.com:443?security=tls&sni=ie.tronsg.com#EPODONIOS
 trojan://mitivpn@199.232.78.170:443?path=@mehrosabiran&security=tls&alpn=http/1.1&host=mitivpn---de--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#EPODONIOS
