@@ -1,6 +1,7 @@
 {
-  "generated_at": "2026-10-02T14:49:11Z",
+  "generated_at": "2026-10-04T13:49:25Z",
   "cycle_number": 1,
+<<<<<<< HEAD
   "generic_total": 1127,
   "generic_vless": 866,
   "generic_vmess": 18,
@@ -12,5 +13,18 @@
   "total_servable": 263,
   "vless_count": 211,
   "vmess_count": 4,
+=======
+  "generic_total": 371,
+  "generic_vless": 219,
+  "generic_vmess": 27,
+  "generic_trojan": 47,
+  "gemini_total": 180,
+  "gemini_vless": 136,
+  "gemini_vmess": 9,
+  "gemini_trojan": 0,
+  "total_servable": 180,
+  "vless_count": 136,
+  "vmess_count": 9,
+>>>>>>> refs/remotes/origin/main
   "trojan_count": 0
 }
