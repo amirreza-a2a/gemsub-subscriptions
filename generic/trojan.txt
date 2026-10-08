@@ -1,24 +1,43 @@
-trojan://UX82473651@54.199.66.128:443?security=tls&sni=integral-rodent.rooster465.autos&fp=chrome&type=tcp&path=/# By EbraSha ⚙️
-trojan://UX82473651@amazing-peacock.rooster465.autos:443?security=tls&sni=amazing-peacock.rooster465.autos# By EbraSha ♦️
-trojan://UX82473651@brief-glider.rooster465.autos:443?security=tls&sni=brief-glider.rooster465.autos#⚡ b2n.ir/v2ray-configs | 85
-trojan://UX82473651@comic-poodle.rooster465.autos:443?security=tls&sni=comic-poodle.rooster465.autos# By EbraSha 🤖
+trojan://Trojan@82164024@3.255.76.207:443?type=tcp&security=tls&sni=ie.tronsg.com# By EbraSha ⚡
+trojan://UX82473651@13.212.81.3:443?security=tls&sni=holy-lamb.rooster465.autos# By EbraSha 🌍
+trojan://UX82473651@3.35.207.188:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=main-fawn.rooster465.autos#KR 🇰🇷 | @Raydikalx | FDCB25
+trojan://UX82473651@amazing-peacock.rooster465.autos:443?security=tls&sni=amazing-peacock.rooster465.autos# By EbraSha 🌌
+trojan://UX82473651@brief-glider.rooster465.autos:443?security=tls&sni=brief-glider.rooster465.autos#EPODONIOS
+trojan://UX82473651@comic-poodle.rooster465.autos:443?security=tls&sni=comic-poodle.rooster465.autos#⚡ b2n.ir/v2ray-configs | 111
+trojan://UX82473651@concrete-aardvark.rooster465.autos:443?security=tls&sni=concrete-aardvark.rooster465.autos# By EbraSha ♠️
+trojan://UX82473651@concrete-aardvark.rooster465.autos:443?security=tls&sni=concrete-aardvark.rooster465.autos#JP 🇯🇵 | @Raydikalx | 44143F
+trojan://UX82473651@delicate-buck.rooster465.autos:443?security=tls&sni=delicate-buck.rooster465.autos#EPODONIOS
 trojan://UX82473651@evolving-platypus.rooster465.autos:443?security=tls&sni=evolving-platypus.rooster465.autos#EPODONIOS
-trojan://UX82473651@glowing-marmoset.rooster465.autos:443?security=tls&sni=glowing-marmoset.rooster465.autos#EPODONIOS
-trojan://UX82473651@intense-sole.rooster465.autos:443?security=tls&sni=intense-sole.rooster465.autos#EPODONIOS
-trojan://UX82473651@loved-shark.rooster465.autos:443?security=tls&sni=loved-shark.rooster465.autos#⚡ b2n.ir/v2ray-configs | 17
-trojan://UX82473651@main-fawn.rooster465.autos:443?security=tls&sni=main-fawn.rooster465.autos#⚡ b2n.ir/v2ray-configs | 54
-trojan://UX82473651@meet-goshawk.rooster465.autos:443?security=tls&sni=meet-goshawk.rooster465.autos#DE 🇩🇪 | @Raydikalx | 665D57
-trojan://UX82473651@neutral-quail.rooster465.autos:443?security=tls&sni=neutral-quail.rooster465.autos#KR 🇰🇷 | @Raydikalx | 336021
-trojan://UX82473651@obliging-louse.rooster465.autos:443?security=tls&sni=obliging-louse.rooster465.autos#EPODONIOS
-trojan://UX82473651@optimum-snapper.rooster465.autos:443?security=tls&amp;sni=optimum-snapper.rooster465.autos# By EbraSha ⛓️
-trojan://UX82473651@optimum-snapper.rooster465.autos:443?security=tls&sni=optimum-snapper.rooster465.autos#KR 🇰🇷 | @Raydikalx | FE79F7
-trojan://UX82473651@pleased-albacore.rooster465.autos:443?security=tls&sni=pleased-albacore.rooster465.autos# By EbraSha 🦾
-trojan://UX82473651@pretty-rat.rooster465.autos:443?security=tls&sni=pretty-rat.rooster465.autos#⚡ b2n.ir/v2ray-configs | 113
-trojan://UX82473651@prime-corgi.rooster465.autos:443?security=tls&sni=prime-corgi.rooster465.autos#⚡ b2n.ir/v2ray-configs | 557
-trojan://UX82473651@promoted-rattler.rooster465.autos:443?security=tls&sni=promoted-rattler.rooster465.autos#JP 🇯🇵 | @Raydikalx | 840A53
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?security=tls&sni=sacred-anemone.rooster465.autos#IE 🇮🇪 | @Raydikalx | 7CC1B6
+trojan://UX82473651@kind-stork.rooster465.autos:443?security=tls&sni=kind-stork.rooster465.autos#KR 🇰🇷 | @Raydikalx | 13AE37
+trojan://UX82473651@main-fawn.rooster465.autos:443?security=tls&sni=main-fawn.rooster465.autos#EPODONIOS
+trojan://UX82473651@musical-terrier.rooster465.autos:443?security=tls&sni=musical-terrier.rooster465.autos&fp=chrome&allowInsecure=1&type=tcp&headerType=none# By EbraSha 🧠
+trojan://UX82473651@noted-cougar.rooster465.autos:443?security=tls&sni=noted-cougar.rooster465.autos# By EbraSha 🪐
+trojan://UX82473651@organic-caribou.rooster465.autos:443?security=tls&sni=organic-caribou.rooster465.autos#JP 🇯🇵 | @Raydikalx | 9E61B7
+trojan://UX82473651@prime-corgi.rooster465.autos:443?security=tls&type=tcp&sni=prime-corgi.rooster465.autos#@DeltaKroneckerGithub
+trojan://UX82473651@sacred-anemone.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=sacred-anemone.rooster465.autos# By EbraSha 🔐
 trojan://UX82473651@ultimate-jaguar.rooster465.autos:443?security=tls&sni=ultimate-jaguar.rooster465.autos#@DeltaKroneckerGithub
-trojan://UX82473651@ultimate-jaguar.rooster465.autos:443?type=raw&security=tls&sni=ultimate-jaguar.rooster465.autos&fp=chrome# By EbraSha 🦅
-trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@31.76.103.140:443?security=tls&alpn=h2,http/1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=fi.zhabulik.ru# By EbraSha 🧠
-trojan://av7fquzvuc99xcs9@uwu.blueknightnet.qzz.io:2087?path=/@BlueKnight_net--@BlueKnight_net--@BlueKnight_net&security=tls&alpn=h2&insecure=0&host=uwu.dianaw.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=uwu.dianaw.cc.cd#EPODONIOS
-trojan://humanity@155.103.71.142:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@DeltaKroneckerGithub
+trojan://UX82473651@ultimate-jaguar.rooster465.autos:443?security=tls&sni=ultimate-jaguar.rooster465.autos#EPODONIOS
+trojan://UX82473651@winning-marten.rooster465.autos:443?security=tls&sni=winning-marten.rooster465.autos# By EbraSha 👾
+trojan://UX82473651@winning-marten.rooster465.autos:443?security=tls&sni=winning-marten.rooster465.autos#⚡ b2n.ir/v2ray-configs | 908
+trojan://humanity@104.27.21.22:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#@DeltaKroneckerGithub
+trojan://humanity@166.1.36.83:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com# By EbraSha 🎯
+trojan://humanity@172.67.217.240:443?security=tls&sni=www.calmlunch.com&fp=unsafe&type=ws&host=www.calmlunch.com&path=%2Fassignment# By EbraSha 🔐
+trojan://humanity@172.67.231.254:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com# By EbraSha 🪬
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&host=www.volumeroot.com&type=ws&sni=www.volumeroot.com#EPODONIOS
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=chrome&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#EPODONIOS
+trojan://humanity@212.183.88.136:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com# By EbraSha 🦇
+trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com# By EbraSha ⌨️
+trojan://humanity@www.speedtest.net:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com# By EbraSha 👑
+trojan://humanity@www.speedtest.net:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#@DeltaKroneckerGithub
+trojan://mitivpn@146.75.57.238:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-4--vip.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl-mitivpn.fastly.com# By EbraSha 🛰️
+trojan://mitivpn@146.75.57.238:443?path=/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/NLSs---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-4--vip.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl-mitivpn.fastly.com#EPODONIOS
+trojan://mitivpn@146.75.57.238:443?security=tls&sni=ssl-mitivpn.fastly.com&fp=chrome&alpn=http/1.1&type=ws&host=mitivpn-4--vip.global.ssl.fastly.net&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN#EPODONIOS
+trojan://mitivpn@151.101.38.7:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn--vip.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=jjl.fastly.com# By EbraSha 🔋
+trojan://mitivpn@151.101.38.7:443?path=@VPNine1&security=tls&alpn=http/1.1&insecure=1&host=mitivpn--vip.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=jjl.fastly.com#EPODONIOS
+trojan://mitivpn@151.101.38.7:443?path=@VPNine1&security=tls&alpn=http/1.1&insecure=1&host=mitivpn--vip.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=jjl.fastly.com#US 🇺🇸 | @Raydikalx | AD01C1
+trojan://mitivpn@151.101.38.7:443?security=tls&sni=jjl.fastly.com&fp=chrome&alpn=http/1.1&type=ws&host=mitivpn--vip.global.ssl.fastly.net&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN#EPODONIOS
+trojan://mitivpn@151.101.38.7:443?security=tls&sni=jjl.fastly.com&fp=chrome&alpn=http/1.1&type=ws&host=mitivpn--vip.global.ssl.fastly.net&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN#US 🇺🇸 | @Raydikalx | 1CBBA6
+trojan://mitivpn@167.82.76.27:443?path=/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/NLSus---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-3--vip.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn-mitivpn.fastly.com#EPODONIOS
+trojan://mitivpn@167.82.76.27:443?security=tls&sni=mitivpn-mitivpn.fastly.com&fp=chrome&alpn=http/1.1&type=ws&host=mitivpn-3--vip.global.ssl.fastly.net&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN#EPODONIOS
+trojan://mitivpn@199.232.78.160:443?path=/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/D-e1i@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-2--vip.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.fastly.com#EPODONIOS
+trojan://mitivpn@199.232.78.160:443?path=/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/D-e1i@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-2--vip.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.fastly.com#US 🇺🇸 | @Raydikalx | BDC11B

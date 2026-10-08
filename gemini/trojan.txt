@@ -1,1 +1,2 @@
-trojan://UX82473651@meet-goshawk.rooster465.autos:443?security=tls&sni=meet-goshawk.rooster465.autos#DE 🇩🇪 | @Raydikalx | 665D57
+trojan://mitivpn@146.75.57.238:443?path=/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/NLSs---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-4--vip.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl-mitivpn.fastly.com#EPODONIOS
+trojan://mitivpn@146.75.57.238:443?security=tls&sni=ssl-mitivpn.fastly.com&fp=chrome&alpn=http/1.1&type=ws&host=mitivpn-4--vip.global.ssl.fastly.net&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN#EPODONIOS
