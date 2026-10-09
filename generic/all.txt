@@ -1,65 +1,94 @@
-ss://2022-blake3-aes-256-gcm:ADzlhA3ndouUCY3JbLddR/jwgYY7IDGc1T+5DuCix9Y=:KyFe2akGo5hcrswbMkD2+BM52si+D7lzyccZFTd4xaU=@206.1.100.83:25178?type=tcp# By EbraSha 🛡️
-ss://2022-blake3-aes-256-gcm:ADzlhA3ndouUCY3JbLddR/jwgYY7IDGc1T+5DuCix9Y=:KyFe2akGo5hcrswbMkD2+BM52si+D7lzyccZFTd4xaU=@206.1.100.83:25178?type=tcp#EPODONIOS
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206QUR6bGhBM25kb3VVQ1kzSmJMZGRSL2p3Z1lZN0lER2MxVCs1RHVDaXg5WT06S3lGZTJha0dvNWhjcnN3Yk1rRDIrQk01MnNpK0Q3bHp5Y2NaRlRkNHhhVT0@206.1.100.83:25178# By EbraSha 🦾
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@51.124.237.47:443# By EbraSha 🕷️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@51.124.237.47:443#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443# By EbraSha 🪬
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#NL 🇳🇱 | @Raydikalx | 0BA552
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443?#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443?type=tcp&headerType=none# By EbraSha ⌨️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU=@51.255.13.232:8388#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPcUczQkpveVNGRXZEOU1EcUZ0TVhXaEZUakxZa2RzSmc0eko4QUpLSitNPQ@e2.cover20.ir:30874?type=tcp# By EbraSha 🛸
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPcUczQkpveVNGRXZEOU1EcUZ0TVhXaEZUakxZa2RzSmc0eko4QUpLSitNPQ@e2.cover20.ir:30874?type=tcp#@DeltaKroneckerGithub
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6M05Cc25CTGFuUGZHNmkzUzJHVEhpbmVzd3I2RWVTSlBiMFBDZU1Rb0dvQT0=@47.85.168.157:443#@DeltaKroneckerGithub
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TnpKbE9UUTVOV1l0TTJaa1lpMDBDZz09@103.11.76.248:28679#@DeltaKroneckerGithub
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TnpKbE9UUTVOV1l0TTJaa1lpMDBDZz09@103.11.76.248:28679#US 🇺🇸 | @Raydikalx | CDF562
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4QzV2YWxoT2Q4dmZ3YVRYVVNaNlp5YjBJcDM0bFJSNXo3UDhheg@103.160.63.199:31348#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4QzV2YWxoT2Q4dmZ3YVRYVVNaNlp5YjBJcDM0bFJSNXo3UDhheg@103.160.63.199:31348#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZXBwM285bmc4ZWo1OXV2@45.128.12.20:14249#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZXBwM285bmc4ZWo1OXV2@45.128.12.20:14249#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#DE 🇩🇪 | @Raydikalx | 8F12B6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#EPODONIOS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#@DeltaKroneckerGithub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiUVpsN0hEeFNhYnIxRnVyVFlRSEZV@216.105.168.18:443# By EbraSha 🦅
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080# By EbraSha 📶
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.207:8080#NL 🇳🇱 | @Raydikalx | C81E7D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8080#NL 🇳🇱 | @Raydikalx | D5274E
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.197:8080#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080# By EbraSha 🪬
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#NL 🇳🇱 | @Raydikalx | 90C1D6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.212:8080#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.212:8080#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.212:8080#NL 🇳🇱 | @Raydikalx | 253912
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHpwcTBsdFZIZEN4TzJsc1c1TjlDOEg1QjloWG5EN1l5WFpmUDVhdWx3PQ@31.76.11.83:42800#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHpwcTBsdFZIZEN4TzJsc1c1TjlDOEg1QjloWG5EN1l5WFpmUDVhdWx3PQ@31.76.11.83:42800#EPODONIOS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#@DeltaKroneckerGithub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#EPODONIOS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#NL 🇳🇱 | @Raydikalx | 83D586
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080# By EbraSha 💣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#@DeltaKroneckerGithub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#EPODONIOS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#NL 🇳🇱 | @Raydikalx | CC920D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.13:8080#EPODONIOS
+ss://YWVzLTEyOC1nY206MWNiYjNlMzQ3ZWU4NmUxOTgwYTdjNzMxZTlkZDAwYTA=@64.74.161.147:17200#@DeltaKroneckerGithub
+ss://YWVzLTEyOC1nY206MWNiYjNlMzQ3ZWU4NmUxOTgwYTdjNzMxZTlkZDAwYTA=@64.74.161.149:17202#@DeltaKroneckerGithub
+ss://YWVzLTEyOC1nY206MWNiYjNlMzQ3ZWU4NmUxOTgwYTdjNzMxZTlkZDAwYTA=@64.74.161.149:17202#CA 🇨🇦 | @Raydikalx | 86A128
 ss://YWVzLTEyOC1nY206MWNiYjNlMzQ3ZWU4NmUxOTgwYTdjNzMxZTlkZDAwYTA@64.74.161.147:17200#@DeltaKroneckerGithub
 ss://YWVzLTEyOC1nY206MWNiYjNlMzQ3ZWU4NmUxOTgwYTdjNzMxZTlkZDAwYTA@64.74.161.147:17200#CA 🇨🇦 | @Raydikalx | EB997D
-ss://YWVzLTEyOC1nY206NDA0MjQzZjFmMjk5MzIwMTRiODEyMTYyMDhmOTYwMzE=@216.105.168.158:11332#@DeltaKroneckerGithub
-ss://YWVzLTEyOC1nY206NDA0MjQzZjFmMjk5MzIwMTRiODEyMTYyMDhmOTYwMzE=@216.105.168.158:11332#US 🇺🇸 | @Raydikalx | 41EE6E
+ss://YWVzLTEyOC1nY206MWNiYjNlMzQ3ZWU4NmUxOTgwYTdjNzMxZTlkZDAwYTA@64.74.161.147:17200#EPODONIOS
+ss://YWVzLTEyOC1nY206MWNiYjNlMzQ3ZWU4NmUxOTgwYTdjNzMxZTlkZDAwYTA@64.74.161.149:17202?#@DeltaKroneckerGithub
 ss://YWVzLTEyOC1nY206NTlkZWQxNTkxYjBiNDVmMGIxZTkzNjEzMzRjMGY3ZDk=@185.212.171.202:18670#@DeltaKroneckerGithub
+ss://YWVzLTEyOC1nY206NTlkZWQxNTkxYjBiNDVmMGIxZTkzNjEzMzRjMGY3ZDk=@185.212.171.202:18670#EPODONIOS
 ss://YWVzLTEyOC1nY206NTlkZWQxNTkxYjBiNDVmMGIxZTkzNjEzMzRjMGY3ZDk=@185.212.171.202:18670#NL 🇳🇱 | @Raydikalx | D5B088
+ss://YWVzLTEyOC1nY206NTlkZWQxNTkxYjBiNDVmMGIxZTkzNjEzMzRjMGY3ZDk@185.212.171.202:18670#EPODONIOS
 ss://YWVzLTEyOC1nY206NTlkZWQxNTkxYjBiNDVmMGIxZTkzNjEzMzRjMGY3ZDk@185.212.171.202:18670?#@DeltaKroneckerGithub
-ss://YWVzLTEyOC1nY206NjdjNTdhZTU4NGVlY2Q3MDM5NmZjZDdjYTc1MjExMzA@147.78.1.141:16672# By EbraSha 🕶️
-ss://YWVzLTI1Ni1jZmI6WWc0TWJkWEZROUhGRlZZNg==@185.135.86.175:9034# By EbraSha 🤖
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@107.21.80.138:443# By EbraSha 🥷
-vless://0097844e-b939-4d50-93f3-591debdceb55@bounded-crammed.video-streams.org:443?encryption=none&security=tls&sni=bounded-crammed.video-streams.org&fp=chrome&alpn=http%2F1.1&type=ws&host=bounded-crammed.video-streams.org&path=%2Fws#@DeltaKroneckerGithub
-vless://0097844e-b939-4d50-93f3-591debdceb55@bounded-crammed.video-streams.org:443?encryption=none&security=tls&sni=bounded-crammed.video-streams.org&fp=chrome&alpn=http%2F1.1&type=ws&host=bounded-crammed.video-streams.org&path=%2Fws#US 🇺🇸 | @Raydikalx | A803BE
-vless://0097844e-b939-4d50-93f3-591debdceb55@grimness-backlogs.cdn-content.com:443?encryption=none&security=tls&sni=grimness-backlogs.cdn-content.com&fp=chrome&alpn=http%2F1.1&type=ws&host=grimness-backlogs.cdn-content.com&path=%2Fws#@DeltaKroneckerGithub
-vless://0097844e-b939-4d50-93f3-591debdceb55@grimness-backlogs.cdn-content.com:443?encryption=none&security=tls&sni=grimness-backlogs.cdn-content.com&fp=chrome&alpn=http%2F1.1&type=ws&host=grimness-backlogs.cdn-content.com&path=%2Fws#US 🇺🇸 | @Raydikalx | 99CFA3
-vless://3fe8191f-52ae-4e38-8385-5869ab47fb70@jolly-violet-a006.10-ae8.workers.dev:8880?encryption=none&path=/pyip%3DProxyIP.US.CMLiussss.net&type=ws# By EbraSha 🦾
-vless://3fe8191f-52ae-4e38-8385-5869ab47fb70@jolly-violet-a006.10-ae8.workers.dev:8880?type=ws&amp;path=%2Fpyip%3DProxyIP.US.CMLiussss.net# By EbraSha 🔥
-vless://3fe8191f-52ae-4e38-8385-5869ab47fb70@skk.moe:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=jolly-violet-a006.10-ae8.workers.dev&packetEncoding=xudp# By EbraSha 🚧
+ss://YWVzLTEyOC1nY206ODI3ZTg3MDc1MmU4MjBjNGVmN2NjNDA1OGMxZDBhOTk=@148.72.164.235:11995#@DeltaKroneckerGithub
+ss://YWVzLTEyOC1nY206ODI3ZTg3MDc1MmU4MjBjNGVmN2NjNDA1OGMxZDBhOTk=@148.72.164.235:11995#US 🇺🇸 | @Raydikalx | CEF2C8
+ss://YWVzLTEyOC1nY206ODlkM2EwMzc1YTI3OWY2ZTc0M2ZlYTc2ZTcyOTUyYTg@66.23.204.214:16999#@DeltaKroneckerGithub
+ss://YWVzLTEyOC1nY206ODlkM2EwMzc1YTI3OWY2ZTc0M2ZlYTc2ZTcyOTUyYTg@66.23.204.214:16999#EPODONIOS
+ss://YWVzLTEyOC1nY206ODlkM2EwMzc1YTI3OWY2ZTc0M2ZlYTc2ZTcyOTUyYTg@66.23.204.214:16999#US 🇺🇸 | @Raydikalx | C8F92B
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.196.88.40:443#EPODONIOS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.221.120.243:443#EPODONIOS
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#EPODONIOS
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#EPODONIOS
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#FR 🇫🇷 | @Raydikalx | 17E3DC
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#EPODONIOS
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#EPODONIOS
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#EPODONIOS
+ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg==@46.17.42.141:50660?#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg@46.17.42.141:50660#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg@46.17.42.141:50660#RU 🇷🇺 | @Raydikalx | CE8036
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#EPODONIOS
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.155.113:5601#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#CA 🇨🇦 | @Raydikalx | AE85DD
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#EPODONIOS
+ss://YWVzLTI1Ni1nY206YmRiMzEzYWRmNzRjMmVkZQ==@46.17.45.31:50660?#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1nY206YmRiMzEzYWRmNzRjMmVkZQ==@46.17.45.31:50660?#RU 🇷🇺 | @Raydikalx | BC5C8F
+ss://YWVzLTI1Ni1nY206YmRiMzEzYWRmNzRjMmVkZQ@46.17.45.31:50660#@DeltaKroneckerGithub
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#EPODONIOS
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#EPODONIOS
+trojan://Telegram_healer_config@172.67.187.87:443?path=/tr/JIPAVWGHbaGJWIcEUAFGZIxrVCPW?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=bktf381b04nchtxkn8tidezqgf.tcnth9s31mg1j4tnxlad62o1s2o.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=bKtF381b04NcHTXkN8TidEzQgF.TCNTH9s31mg1j4TNxLAD62O1s2o.wOrKErS.DEV#@DeltaKroneckerGithub
+trojan://av7fquzvuc99xcs9@104.21.65.43:2087?security=tls&sni=uwu.dianaw.cc.cd&type=ws&host=uwu.dianaw.cc.cd&path=%2F%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net&fp=chrome&alpn=h2&allowInsecure=0#@DeltaKroneckerGithub
+trojan://humanity@104.16.6.70:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@DeltaKroneckerGithub
+trojan://humanity@104.21.57.25:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#EPODONIOS
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104","1"],"delays":["0"],"maxSplit":"0"}},{"type":"fragment","settings":{"packets":"1-1","lengths":["114","1"],"delays":["1"],"maxSplit":"11"}}]}&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@DeltaKroneckerGithub
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104"]}}]}&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104"]}}]}&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#EPODONIOS
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&host=www.volumeroot.com&type=ws&sni=www.volumeroot.com#EPODONIOS
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&fm={"tcp":[{"settings":{"packets":"tlshello","lengths":["0","104"]},"type":"fragment"}]}&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104"]}}]}&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104"]}}]}&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&host=www.volumerOot.coM.&fp=chrome&type=ws&sni=wWw.Volumeroot.cOm.#EPODONIOS
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&host=www.volumerOot.coM.&fp=chrome&type=ws&sni=wWw.Volumeroot.cOm.#NL 🇳🇱 | @Raydikalx | 7DF20E
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=chrome&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#EPODONIOS
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#EPODONIOS
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#EPODONIOS
+trojan://humanity@31.15.19.199:443?security=tls&type=ws&host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org#@DeltaKroneckerGithub
+trojan://humanity@31.15.19.199:443?security=tls&type=ws&host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org#NL 🇳🇱 | @Raydikalx | 4AF270
+trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
+trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=/assignment#EPODONIOS
+vless://15f434b8-aaec-4306-98c9-dd8f5ef608d4@vpn.cyrionflare.xyz:2087?security=none&type=tcp#@DeltaKroneckerGithub
+vless://15f434b8-aaec-4306-98c9-dd8f5ef608d4@vpn.cyrionflare.xyz:2087?security=none&type=tcp#DE 🇩🇪 | @Raydikalx | F1E9B2
+vless://186a7d6f-e360-4c5f-bafb-a816f79e231b@138.124.247.206:443?security=reality&encryption=none&pbk=FSoosmyb1Odcc6yucO4B-0YC0fKytdBbvuwJKn7Wbkg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=hr1-4v.zvcorp24.com&sid=86afa150bc3a48f6#@DeltaKroneckerGithub
+vless://186a7d6f-e360-4c5f-bafb-a816f79e231b@185.76.241.49:443?security=reality&encryption=none&pbk=-vbYsY2UQcGl7Z6eTc5KDhxOfo_OhsqFlI_SyeL4TSE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ru-in-est-4vp.movietop24.site&sid=b927c029ece94e02#@DeltaKroneckerGithub
+vless://283665ab-54c2-4c59-ac55-5e8388558eba@188.114.97.6:8080?security=none&type=ws&path=/vl/oCCSZfAWhGqcVO3WOEnIPj9Z9ke?ed&host=27l432tlhnpcojr6u0d3.adfasdfadfasdf.workers.dev&packetEncoding=xudp#@DeltaKroneckerGithub
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.246.55.30:8880?type=ws&host=vms.lifetime59.workers.dev#@DeltaKroneckerGithub
-vless://6f0f17f0-d45c-4584-bf50-a00cb6e423d3@lvvq3l3c.asrarshimi.ir:443?security=reality&encryption=none&pbk=_OmNcv89o5SDt4H3ButRX9UynGIVwNZR250w4Zie-yk&headerType=none&fp=chrome&type=tcp&sni=www.actionvfx.com&sid=73693dea6faae051# By EbraSha 🐺
-vless://70c16ec7-13f7-473b-b97d-06399f1481e3@www.baipiao.eu.org:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=mute-surf-0003.209.workers.dev&packetEncoding=xudp# By EbraSha 🧊
-vless://70ca8aec-42ba-41df-a874-ec9517053dec@rough-mouse-2a3a.424-e94.workers.dev:8880?path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none&type=ws# By EbraSha ✨
-vless://70ca8aec-42ba-41df-a874-ec9517053dec@rough-mouse-2a3a.424-e94.workers.dev:8880?type=ws&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&sni=rough-mouse-2a3a.424-e94.workers.dev# By EbraSha 🕷️
-vless://9adb120c-0cce-4b56-9023-ccf7f1e13536@icook.tw:8880?packetEncoding=xudp&type=ws&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&host=spring-sunset-81e8.322.workers.dev&sni=icook.tw# By EbraSha 👑
-vless://9adb120c-0cce-4b56-9023-ccf7f1e13536@icook.tw:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=spring-sunset-81e8.322.workers.dev&packetEncoding=xudp# By EbraSha 🔮
-vless://9adb120c-0cce-4b56-9023-ccf7f1e13536@icook.tw:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=spring-sunset-81e8.322.workers.dev&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://cfae6477-e8ad-4114-8efd-a7c3e5d8a05b@13.143.174.97:2053?encryption=none&fp=firefox&host=se.fastmirror-labs.xyz&path=/ws-cdn1-vless&security=tls&sni=13.143.174.97&type=ws#@DeltaKroneckerGithub
-vless://cfae6477-e8ad-4114-8efd-a7c3e5d8a05b@13.143.174.97:2053?encryption=none&fp=firefox&host=se.fastmirror-labs.xyz&path=/ws-cdn1-vless&security=tls&sni=13.143.174.97&type=ws#SE 🇸🇪 | @Raydikalx | 7A2425
-vless://cfae6477-e8ad-4114-8efd-a7c3e5d8a05b@13.143.174.97:2083?type=raw&security=tls&fp=firefox&sni=13.143.174.97#@DeltaKroneckerGithub
-vless://cfae6477-e8ad-4114-8efd-a7c3e5d8a05b@13.143.174.97:2087?type=raw&security=tls&fp=firefox&sni=13.143.174.97#@DeltaKroneckerGithub
-vless://cfae6477-e8ad-4114-8efd-a7c3e5d8a05b@13.143.174.97:2087?type=raw&security=tls&fp=firefox&sni=13.143.174.97#SE 🇸🇪 | @Raydikalx | 3ACE13
-vless://cfae6477-e8ad-4114-8efd-a7c3e5d8a05b@13.143.174.97:8443?type=raw&security=tls&fp=firefox&sni=13.143.174.97#@DeltaKroneckerGithub
-vless://e9e60f73-1618-491c-a85b-477bdc959ae6@141.98.7.193:2087?type=raw&security=tls&fp=firefox&sni=141.98.7.193#DE 🇩🇪 | @Raydikalx | 97DDB3
