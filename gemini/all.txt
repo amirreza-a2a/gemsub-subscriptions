@@ -1,40 +1,27 @@
-ss://YWVzLTEyOC1nY206NTlkZWQxNTkxYjBiNDVmMGIxZTkzNjEzMzRjMGY3ZDk=@185.212.171.202:18670#@DeltaKroneckerGithub
-ss://YWVzLTEyOC1nY206NTlkZWQxNTkxYjBiNDVmMGIxZTkzNjEzMzRjMGY3ZDk=@185.212.171.202:18670#EPODONIOS
-ss://YWVzLTEyOC1nY206NTlkZWQxNTkxYjBiNDVmMGIxZTkzNjEzMzRjMGY3ZDk=@185.212.171.202:18670#NL 🇳🇱 | @Raydikalx | D5B088
-ss://YWVzLTEyOC1nY206NTlkZWQxNTkxYjBiNDVmMGIxZTkzNjEzMzRjMGY3ZDk@185.212.171.202:18670#EPODONIOS
-ss://YWVzLTEyOC1nY206NTlkZWQxNTkxYjBiNDVmMGIxZTkzNjEzMzRjMGY3ZDk@185.212.171.202:18670?#@DeltaKroneckerGithub
+ss://2022-blake3-aes-256-gcm:Uggiq+MU2DrXqjM0aHddud8xoJ4KwHHxZJDtYdiR1q8=:DA1vvMbbr8DEFi3x6Ra/IIdEf578UZOxmxHGRbw0nSs=@31.57.185.253:25852?type=tcp# By EbraSha ♣️
+ss://2022-blake3-aes-256-gcm:Uggiq+MU2DrXqjM0aHddud8xoJ4KwHHxZJDtYdiR1q8=:DA1vvMbbr8DEFi3x6Ra/IIdEf578UZOxmxHGRbw0nSs=@31.57.185.253:25852?type=tcp#EPODONIOS
+ss://2022-blake3-aes-256-gcm:hUCKEbPeJ4HGtnuDnMOx/ue3vqlCIthES0ogLhl8rYc=:wSwRV4rUZjBzsx2gqnsPoSR2oojnnSIYU/v+JxX36YI=@31.57.185.253:53396?type=tcp# By EbraSha 🦈
+ss://2022-blake3-aes-256-gcm:hUCKEbPeJ4HGtnuDnMOx/ue3vqlCIthES0ogLhl8rYc=:wSwRV4rUZjBzsx2gqnsPoSR2oojnnSIYU/v+JxX36YI=@31.57.185.253:53396?type=tcp#EPODONIOS
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206aFVDS0ViUGVKNEhHdG51RG5NT3gvdWUzdnFsQ0l0aEVTMG9nTGhsOHJZYz06d1N3UlY0clVaakJ6c3gyZ3Fuc1BvU1Iyb29qbm5TSVlVL3YrSnhYMzZZST0@31.57.185.253:53396#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080# By EbraSha ⛓️
+ss://YWVzLTEyOC1nY206MjU5MWE0MmFmNDk4ODc4ZTQ3ZDg4MWNkMWVkMWZhOWQ=@66.23.204.218:10675# By EbraSha 🌌
+ss://YWVzLTEyOC1nY206MjU5MWE0MmFmNDk4ODc4ZTQ3ZDg4MWNkMWVkMWZhOWQ=@66.23.204.218:10675#@DeltaKroneckerGithub
+ss://YWVzLTEyOC1nY206MjU5MWE0MmFmNDk4ODc4ZTQ3ZDg4MWNkMWVkMWZhOWQ@66.23.204.218:10675#EPODONIOS
+ss://YWVzLTEyOC1nY206MjU5MWE0MmFmNDk4ODc4ZTQ3ZDg4MWNkMWVkMWZhOWQ@66.23.204.218:10675?#@DeltaKroneckerGithub
+ss://YWVzLTEyOC1nY206ODlkM2EwMzc1YTI3OWY2ZTc0M2ZlYTc2ZTcyOTUyYTg=@66.23.204.214:16999# By EbraSha 🔌
+ss://YWVzLTEyOC1nY206ODlkM2EwMzc1YTI3OWY2ZTc0M2ZlYTc2ZTcyOTUyYTg=@66.23.204.214:16999#@DeltaKroneckerGithub
+ss://YWVzLTEyOC1nY206ODlkM2EwMzc1YTI3OWY2ZTc0M2ZlYTc2ZTcyOTUyYTg=@66.23.204.214:16999#EPODONIOS
 ss://YWVzLTEyOC1nY206ODlkM2EwMzc1YTI3OWY2ZTc0M2ZlYTc2ZTcyOTUyYTg@66.23.204.214:16999#@DeltaKroneckerGithub
-ss://YWVzLTEyOC1nY206ODlkM2EwMzc1YTI3OWY2ZTc0M2ZlYTc2ZTcyOTUyYTg@66.23.204.214:16999#EPODONIOS
 ss://YWVzLTEyOC1nY206ODlkM2EwMzc1YTI3OWY2ZTc0M2ZlYTc2ZTcyOTUyYTg@66.23.204.214:16999#US 🇺🇸 | @Raydikalx | C8F92B
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.196.88.40:443#EPODONIOS
-ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg==@46.17.42.141:50660?#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg@46.17.42.141:50660#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg@46.17.42.141:50660#RU 🇷🇺 | @Raydikalx | CE8036
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#CA 🇨🇦 | @Raydikalx | AE85DD
-ss://YWVzLTI1Ni1nY206YmRiMzEzYWRmNzRjMmVkZQ==@46.17.45.31:50660?#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1nY206YmRiMzEzYWRmNzRjMmVkZQ==@46.17.45.31:50660?#RU 🇷🇺 | @Raydikalx | BC5C8F
-ss://YWVzLTI1Ni1nY206YmRiMzEzYWRmNzRjMmVkZQ@46.17.45.31:50660#@DeltaKroneckerGithub
-vless://15f434b8-aaec-4306-98c9-dd8f5ef608d4@vpn.cyrionflare.xyz:2087?security=none&type=tcp#@DeltaKroneckerGithub
-vless://15f434b8-aaec-4306-98c9-dd8f5ef608d4@vpn.cyrionflare.xyz:2087?security=none&type=tcp#DE 🇩🇪 | @Raydikalx | F1E9B2
-vless://186a7d6f-e360-4c5f-bafb-a816f79e231b@31.77.29.47:443?security=reality&encryption=none&pbk=ZrHDiON568oDDRIl0XXBL5kBK5bNnkadKFzt6UYIoUs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=jp-akn-1.movietop24.site&sid=ee2fb8a902f1fa2b#@DeltaKroneckerGithub
-vless://186a7d6f-e360-4c5f-bafb-a816f79e231b@31.77.29.47:443?security=reality&encryption=none&pbk=ZrHDiON568oDDRIl0XXBL5kBK5bNnkadKFzt6UYIoUs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=jp-akn-1.movietop24.site&sid=ee2fb8a902f1fa2b#JP 🇯🇵 | @Raydikalx | AA8E58
-vless://318c935d-c195-41d3-99ad-9bbcfdab3386@144.31.62.162:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=de2.srv.vbuste.ru&security=reality&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&sid=4be4110078ebed4a#@DeltaKroneckerGithub
-vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.74:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=qC0g7Y0pwyLFTGAPG2zfZNuo64Cda695wdKgLU4KkF8&sid=770618b6&type=tcp&headerType=none#⚡ b2n.ir/v2ray-configs | 949
-vless://52919204-4ed9-42c8-97a0-0f01d007f898@154.40.55.185:443?&security=reality&flow=xtls-rprx-vision&pbk=XY0OTrgnRWxHbqBC8u4qFWvZakjNZY83AAnL_lwHu1M&sid=7f&fp=chrome&sni=www.oracle.com&type=tcp&headerType=none&host=www.oracle.com&path=%2F#US 🇺🇸 | @Raydikalx | EF4903
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@43.255.156.166:21263?security=reality&type=tcp&sni=us1p1.xn--ghq880n3na965a.com&fp=firefox&flow=xtls-rprx-vision&sid=3d31326f95&pbk=YinI5MijeZpRatg6QNDvP0qXEif-6VHC6gV5yoji4i4&encryption=none#HK 🇭🇰 | @Raydikalx | 6A15DD
-vless://9fa5b96f-02be-48f4-ab38-31a5f24c19ea@62.3.42.164:443?security=reality&encryption=none&pbk=S8QyU-Zh_GLc5dJg9jPaPVq-PBq3xRcN1EX9DmyfRQ0&headerType=none&fp=chrome&spx=/218a20578138fba&type=tcp&sni=numberland.ir&sid=c78b#EPODONIOS
-vless://a14b736b-a92a-48d6-a596-5d31f7378ded@51.161.204.242:443?&security=reality&flow=xtls-rprx-vision&pbk=a2qGjvUPq6Nz5FTbn_MSHp-055q2h8YXqIL5VIJ5zwE&sid=d15c17cef9b2e456&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#@DeltaKroneckerGithub
-vless://b67422ff-101b-433b-8f66-4ab282960b36@172.245.253.16:443?security=reality&encryption=none&pbk=Vh8dv6ENmfFd4JlPgj9-R1Fbet2m6JyRFukcVvDq5A8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=e7dc2c820ba8bbd4#@DeltaKroneckerGithub
-vless://b67422ff-101b-433b-8f66-4ab282960b36@172.245.253.16:443?security=reality&encryption=none&pbk=Vh8dv6ENmfFd4JlPgj9-R1Fbet2m6JyRFukcVvDq5A8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=e7dc2c820ba8bbd4#US 🇺🇸 | @Raydikalx | E39004
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#EPODONIOS
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#EPODONIOS
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.35:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#⚡ b2n.ir/v2ray-configs | 449
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.74:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#EPODONIOS
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.75:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#EPODONIOS
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.75:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#EPODONIOS
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.89:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus#⚡ b2n.ir/v2ray-configs | 769
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.89:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#EPODONIOS
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.90:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#⚡ b2n.ir/v2ray-configs | 372
-vless://e9e60f73-1618-491c-a85b-477bdc959ae6@141.98.7.193:2087?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=141.98.7.193#EPODONIOS
-vless://ebdec762-050b-4d54-b7bf-0406ce22f734@154.37.216.186:443?encryption=none&security=reality&type=tcp&sni=www.bing.com&flow=xtls-rprx-vision&fp=chrome&pbk=KkSH2hoA6PuNJL5ZNUDGuWoAYe5kIwcGbrbCYuxHTx8&sid=f39ad9d9eb26df47#@DeltaKroneckerGithub
-vmess://eyJ2IjoiMiIsInBzIjoiVVMg8J+HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgNDUyRUQ1IiwiYWRkIjoiMTI5LjE0Ni43Ny4yNDgiLCJwb3J0IjoiMzk0OTUiLCJpZCI6ImY4MzZjNzM2LTg3ZmMtNGZkZS1hYWJjLTAwODU3ZWNkZmYzZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwicGF0aCI6Ii9jY3R2MTMubTN1OCJ9
+ss://YWVzLTEyOC1nY206YmRkMzViNjVhNWI3MTZlYjdhOTExNTBjMDY3NjQ5NTY@66.23.205.83:17529?#@DeltaKroneckerGithub
+ss://YWVzLTEyOC1nY206dmxkb2xtbG16bXlwYzM2b2todW0=@51.158.26.27:15104#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6UzJ6RHl5UGNtWk4yaDhFQw==@217.30.10.44:9076# By EbraSha ⛓️
+ss://YWVzLTI1Ni1jZmI6bXdnUmc5aFJxM2I0UW53Yg==@195.238.126.20:9068# By EbraSha 🔌
+ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw==@195.238.126.84:9039# By EbraSha ⛓️
+ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg@185.135.86.175:9094# By EbraSha 🐺
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080# By EbraSha ♠️
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080# By EbraSha 🗿
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#US 🇺🇸 | @Raydikalx | 51CE84
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#EPODONIOS
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.235:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#US 🇺🇸 | @Raydikalx | 7E08CC
+vless://f8c9d2a1-da40-4f90-b671-11772a0b13d6@103.172.197.3:16006?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=ll7JTP628PuBMZJvx6fuhGSmCRSURnReAetmhCEL8GU&type=tcp&headerType=none#ID 🇮🇩 | @Raydikalx | 8D4442
