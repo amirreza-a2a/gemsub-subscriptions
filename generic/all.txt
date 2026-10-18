@@ -37,7 +37,10 @@ trojan://0y7hid61k3k2vuy1@uwu.blueknightnet.qzz.io:2087?path=%2F%40BlueKnight_ne
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?security=tls&sni=pl1.dedushka.top&alpn=http%2F1.1&fp=firefox&type=tcp# By EbraSha 🤖
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&sni=pl2.dedushka.top&alpn=http%2F1.1&fp=firefox&type=tcp# By EbraSha 🪐
 trojan://UX82473651@56.10.9.77:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=inviting-ferret.rooster465.autos# By EbraSha 🛡️
-trojan://humanity@78.47.146.151:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org# By EbraSha 🚬
+trojan://e309e031-991e-4656-9934-44d10deb8fd8@www.speedtest.org:2053?type=ws&host=nimm.mpd.cc.cd.&path=%2F0962&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=nimm.mpd.cc.cd.# By EbraSha 🚬
+trojan://e309e031-991e-4656-9934-44d10deb8fd8@www.speedtest.org:2053?type=ws&security=tls&path=%2F0962&host=nimm.mpd.cc.cd.&sni=nimm.mpd.cc.cd.&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&fp=android# By EbraSha 🚀
+trojan://humanity@104.21.57.25:443?host=www.volumeroot.com&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws# By EbraSha 👑
+trojan://humanity@www.pleadcourt.org:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org# By EbraSha 📟
 vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@t14.qifei.app:443?security=reality&type=tcp&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&sid=1a&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&encryption=none# By EbraSha 🎛️
 vless://ed6c724c-435f-4f83-a781-f57579af320b@reaza.localip.ir:443?path=%2F9d9fdbc18c834cffab4276811501fbae&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=gbi.els1v0u3t31v.info&type=ws&allowInsecure=0&sni=gbi.els1v0u3t31v.info# By EbraSha 🧿
 vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@se3.h1cloud.net:25119?security=reality&encryption=none&pbk=szPq4a3cvxfBOmGyg-UJCV3d1Jqjnj7YR3gaxyYtnk4&headerType=none&fp=chrome&spx=/5xmOzu3pGosH91u&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=10f517# By EbraSha ⚔️
