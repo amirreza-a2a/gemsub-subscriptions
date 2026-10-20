@@ -1,3 +1,0 @@
-trojan://Trojan%4082164024@ca.tronsg.com:443?security=tls&sni=ca.tronsg.com&type=tcp# By EbraSha 🧊
-trojan://Trojan@82164024@ca.tronsg.com:443?security=tls&sni=ca.tronsg.com# By EbraSha 🧠
-trojan://Trojan@82164024@jp.tronsg.com:443?security=tls# By EbraSha 🛰️
