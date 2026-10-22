@@ -1,3 +1,14 @@
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@31.133.0.186:443?security=tls&sni=pl2.dedushka.top&type=tcp&fp=firefox&alpn=http%2F1.1&allowInsecure=0#@DeltaKroneckerGithub
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@31.133.0.186:443?security=tls&sni=pl2.dedushka.top&type=tcp&fp=firefox&alpn=http%2F1.1&allowInsecure=0#PL 🇵🇱 | @Raydikalx | 5F831A
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&fm={"tcp":[{"settings":{"packets":"tlshello","lengths":["0","104"]},"type":"fragment"}]}&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#EPODONIOS
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.102:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de4.dedushka.top#EPODONIOS
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.236:443?security=tls&sni=de10.dedushka.top#EPODONIOS
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de10.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de10.dedushka.top#EPODONIOS
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de10.dedushka.top:443?security=tls&sni=de10.dedushka.top#EPODONIOS
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de4.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de4.dedushka.top#EPODONIOS
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de4.dedushka.top:443?security=tls&sni=de4.dedushka.top#EPODONIOS
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de7.dedushka.top#EPODONIOS
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls&sni=de7.dedushka.top#EPODONIOS
+trojan://mitivpn@188.114.97.6:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/--@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=de.mitivpn.in.net&fp=chrome&ech=iranva.ir+udp://1.1.1.1&type=ws&allowInsecure=0&sni=de.mitivpn.in.net#EPODONIOS
+trojan://mitivpn@188.114.97.6:443?security=tls&alpn=http/1.1&insecure=0&host=d-e.mitivpn.in.net&fp=chrome&ech=Nazar.ac.ir+udp://78.157.42.100&type=ws&allowInsecure=0&sni=d-e.mitivpn.in.net#EPODONIOS
+trojan://mitivpn@188.114.97.6:443?security=tls&alpn=http/1.1&insecure=0&host=d-e.mitivpn.in.net&fp=chrome&ech=cloudflare-ech.com+udp://78.157.42.100&type=ws&allowInsecure=0&sni=d-e.mitivpn.in.net#EPODONIOS
+trojan://mitivpn@188.114.97.6:443?security=tls&alpn=http/1.1&insecure=0&host=de.mitivpn.in.net&fp=chrome&ech=iranva.ir+udp://1.1.1.1&type=ws&allowInsecure=0&sni=de.mitivpn.in.net#EPODONIOS
+trojan://mitivpn@188.114.97.6:443?security=tls&sni=de.mitivpn.in.net&fp=chrome&alpn=http/1.1&ech=iranva.ir+udp://1.1.1.1&type=ws&host=de.mitivpn.in.net&path=/#EPODONIOS
+trojan://mitivpn@188.114.97.6:443?security=tls&sni=de.mitivpn.in.net&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&ech=iranva.ir+udp://1.1.1.1&type=ws&host=de.mitivpn.in.net&path=/#EPODONIOS
