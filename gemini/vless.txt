@@ -1,1 +1,2 @@
-vless://f7376394-cd54-11f1-bb6a-bff6d0326f6a@194.36.37.59:10004?path=/vpnjantit&security=none&encryption=none&type=ws#EPODONIOS
+vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&path=%2F&host=uae.unixzone.us&sni=uae.unixzone.us#AE 🇦🇪 | @Raydikalx | A14EFE
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.43:8080?encryption=none&type=ws&host=hhlfy.twiladaphne.ndjp.net&path=%2Fsg-melbi&security=none#⚡ b2n.ir/v2ray-configs | 939
