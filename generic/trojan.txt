@@ -1,2 +1,5 @@
+trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls#US 🇺🇸 | @Raydikalx | 650B6A
 trojan://humanity@172.66.40.99:443?type=ws&security=tls&path=/assignment&host=www.trusteeforward.com&sni=www.trusteeforward.com&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#CA 🇨🇦 | @Raydikalx | 37CED8
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.trusteeforward.com#CA 🇨🇦 | @Raydikalx | 999EB2
+trojan://mitivpn@188.114.98.0:443?host=de.mitivpn.in.net&path=%2F&security=tls&sni=de.mitivpn.in.net&type=ws#CA 🇨🇦 | @Raydikalx | 8B971D
+trojan://mitivpn@188.114.98.0:443?host=de.mitivpn.in.net&security=tls&sni=de.mitivpn.in.net&type=ws#CA 🇨🇦 | @Raydikalx | 65870E
