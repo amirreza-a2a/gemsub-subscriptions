@@ -1,14 +1,3 @@
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.198:443?security=tls&sni=cdn.browseseniorrolesandenhanceyourcareertoday.com#@DeltaKroneckerGithub
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.198:443?security=tls&sni=cdn.browseseniorrolesandenhanceyourcareertoday.com&type=tcp&headerType=none#US 🇺🇸 | @Raydikalx | 243E4F
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.245:443?security=tls&sni=www.discoverfreshgraduatejobsstartyourprofessionaljourney.com&type=tcp&headerType=none#US 🇺🇸 | @Raydikalx | 9E1F5F
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.106.186.66:443?security=tls&fp=chrome&sni=www.findlocaljobnetworkandbuildcommunityconnections.com#@DeltaKroneckerGithub
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.245:443?security=tls&headerType=none&type=tcp&sni=www.discoverfreshgraduatejobsstartyourprofessionaljourney.com#US 🇺🇸 | @Raydikalx | 9E1F5F
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.106.186.66:443?security=tls&fp=chrome&sni=www.findlocaljobnetworkandbuildcommunityconnections.com#US 🇺🇸 | @Raydikalx | 7DB317
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#@DeltaKroneckerGithub
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com&type=tcp&headerType=none#CL 🇨🇱 | @Raydikalx | 1C085E
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.142:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.unlockyourfuturefindyourperfectcareer.com#US 🇺🇸 | @Raydikalx | 73E29E
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@216.106.186.66:443?security=tls&sni=www.findlocaljobnetworkandbuildcommunityconnections.com&type=tcp&headerType=none#US 🇺🇸 | @Raydikalx | 280D3F
-trojan://5t6i121em5lkmsmk@149.104.87.33:15083?security=tls&fp=chrome&sni=mx001.zestapp778.com#@DeltaKroneckerGithub
-trojan://5t6i121em5lkmsmk@149.104.87.33:15083?security=tls&fp=chrome&sni=mx001.zestapp778.com#MX 🇲🇽 | @Raydikalx | 78ADA5
-trojan://5t6i121em5lkmsmk@158.247.255.150:48851?security=tls&fp=firefox&sni=kr002.zestapp778.com#@DeltaKroneckerGithub
 trojan://5t6i121em5lkmsmk@158.247.255.150:48851?security=tls&fp=firefox&sni=kr002.zestapp778.com#KR 🇰🇷 | @Raydikalx | 6FD10F
-trojan://dba20dcb635e430fa4d3bfc303a149d2@216.106.186.32:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com#US 🇺🇸 | @Raydikalx | 1DFFCE
