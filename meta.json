@@ -1,16 +1,16 @@
 {
   "generated_at": "2026-11-05T11:34:25Z",
   "cycle_number": 12,
-  "generic_total": 72,
-  "generic_vless": 36,
+  "generic_total": 155,
+  "generic_vless": 38,
   "generic_vmess": 23,
-  "generic_trojan": 5,
-  "gemini_total": 16,
-  "gemini_vless": 5,
+  "generic_trojan": 9,
+  "gemini_total": 22,
+  "gemini_vless": 6,
   "gemini_vmess": 7,
-  "gemini_trojan": 3,
-  "total_servable": 16,
-  "vless_count": 5,
+  "gemini_trojan": 5,
+  "total_servable": 22,
+  "vless_count": 6,
   "vmess_count": 7,
-  "trojan_count": 3
+  "trojan_count": 5
 }

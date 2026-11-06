@@ -1,5 +1,9 @@
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.245:443?security=tls&headerType=none&type=tcp&sni=www.discoverfreshgraduatejobsstartyourprofessionaljourney.com#US 🇺🇸 | @Raydikalx | 9E1F5F
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.67:443?security=tls&sni=courses.explorecreativejobsandenhanceyourcareerportfolio.com#⚡ b2n.ir/v2ray-configs | 555
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.67:443?security=tls&sni=courses.explorecreativejobsandenhanceyourcareerportfolio.com&type=tcp&headerType=none#US 🇺🇸 | @Raydikalx | C68569
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.106.186.66:443?security=tls&fp=chrome&sni=www.findlocaljobnetworkandbuildcommunityconnections.com#US 🇺🇸 | @Raydikalx | 7DB317
-trojan://5t6i121em5lkmsmk@158.247.255.150:48851?security=tls&fp=firefox&sni=kr002.zestapp778.com#KR 🇰🇷 | @Raydikalx | 6FD10F
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.198:443?security=tls&sni=cdn.browseseniorrolesandenhanceyourcareertoday.com#@DeltaKroneckerGithub
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.106.186.155:443?security=tls&fp=chrome&sni=api.findlocaljobnetworkandbuildcommunityconnections.com#@DeltaKroneckerGithub
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.106.186.66:443?security=tls&fp=chrome&sni=www.findlocaljobnetworkandbuildcommunityconnections.com#@DeltaKroneckerGithub
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#@DeltaKroneckerGithub
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.40:443?security=tls&sni=cdn.discovergreatjobsandadvanceyourcareer.com#@DeltaKroneckerGithub
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.40:443?security=tls&sni=cdn.discovergreatjobsandadvanceyourcareer.com#ES 🇪🇸 | @Raydikalx | F48624
+trojan://5t6i121em5lkmsmk@108.61.119.63:42314?type=tcp&security=tls&fp=chrome&sni=us007.zestapp778.com#@DeltaKroneckerGithub
+trojan://5t6i121em5lkmsmk@158.247.255.150:48851?security=tls&fp=firefox&sni=kr002.zestapp778.com#@DeltaKroneckerGithub
+trojan://7bpe9s002exll38s@199.68.156.250:2087?allowInsecure=1&alpn=http/1.1&fp=chrome&host=nexoshop.netvia.ir&path=/wss&security=tls&sni=nexoshop.netvia.ir&type=ws#US 🇺🇸 | @Raydikalx | E194B9
